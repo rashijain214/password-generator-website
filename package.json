@@ -6,7 +6,7 @@
   "description": "A modern, responsive password generator built with React and Vite",
   "author": "Rashi Jain",
   "license": "MIT",
-  "homepage": "https://rashijain214.github.io/password-generator-website",
+  "homepage": "https://password-generator-website-rashijain214.vercel.app",
   "repository": {
     "type": "git",
     "url": "https://github.com/rashijain214/password-generator-website.git"
